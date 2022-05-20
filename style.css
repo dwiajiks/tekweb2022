@@ -1,0 +1,34 @@
+body {
+	min-height: 2000px;	
+}
+
+h2 {
+	color: #525E75;
+}
+
+.jumbotron {
+	padding-top: 7rem;
+	background-color: 	#FDF6EC;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	color: #080202;
+}
+a:hover {
+	text-decoration: none;
+	color: #525E75;
+}
+
+footer a {
+	color: #080202;
+}
+footer {
+	padding-bottom: 9rem;
+}
+
+section {
+	padding-top: 5rem;
+}
